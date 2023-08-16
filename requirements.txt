@@ -1,0 +1,10 @@
+numpy
+trimesh
+tqdm
+scikit-learn
+torchvision
+pytorch3d
+zlib
+bpy
+opencv-python
+mathutils
